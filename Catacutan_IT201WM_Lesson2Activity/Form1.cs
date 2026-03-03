@@ -19,12 +19,13 @@ namespace Catacutan_IT201WM_Lesson2Activity
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            comboBox1.Items.Add("CEA");
-            comboBox1.Items.Add("CCS");
-            comboBox1.Items.Add("CITHM");
-            comboBox1.Items.Add("CON");
-            comboBox1.Items.Add("CAMS");
-            comboBox1.Items.Add("CBA");
+            comboBox1.Items.Add("BS Aeronautical Engineering");
+            comboBox1.Items.Add("BS Civil Engineering");
+            comboBox1.Items.Add("BS Computer Engineering");
+            comboBox1.Items.Add("BS Electrical Engineering");
+            comboBox1.Items.Add("BS Electronics Engineering");
+            comboBox1.Items.Add("BS Industrial Engineering");
+            comboBox1.Items.Add("BS Mechanical Engineering");
         }
 
         private void button1_Click(object sender, EventArgs e)
